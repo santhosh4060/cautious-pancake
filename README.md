@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head></head>
 <style>
-body {
+body 
+{
     background-color: yellow;
 }
 
@@ -14,7 +15,7 @@ p {
     background-color: rgb(255,0,255);
 }
 </style>
-</head>
+
 <body>
 
 <h1>This is heading 1</h1>
