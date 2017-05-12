@@ -1,8 +1,24 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+body {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: #00ff00;
+}
+
+p {
+    background-color: rgb(255,0,255);
+}
+</style>
+</head>
 <body>
 
-<img src="smiley.gif" alt="Smiley face" width="42" height="42">
+<h1>This is heading 1</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
